@@ -1,0 +1,10 @@
+C:\Users\Quetzalcoatl\source\repos\filos\filos\bin\Debug\filos.exe.config
+C:\Users\Quetzalcoatl\source\repos\filos\filos\bin\Debug\filos.exe
+C:\Users\Quetzalcoatl\source\repos\filos\filos\bin\Debug\filos.pdb
+C:\Users\Quetzalcoatl\source\repos\filos\filos\obj\Debug\filos.csproj.AssemblyReference.cache
+C:\Users\Quetzalcoatl\source\repos\filos\filos\obj\Debug\filos.Form1.resources
+C:\Users\Quetzalcoatl\source\repos\filos\filos\obj\Debug\filos.Properties.Resources.resources
+C:\Users\Quetzalcoatl\source\repos\filos\filos\obj\Debug\filos.csproj.GenerateResource.cache
+C:\Users\Quetzalcoatl\source\repos\filos\filos\obj\Debug\filos.csproj.CoreCompileInputs.cache
+C:\Users\Quetzalcoatl\source\repos\filos\filos\obj\Debug\filos.exe
+C:\Users\Quetzalcoatl\source\repos\filos\filos\obj\Debug\filos.pdb
